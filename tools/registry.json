@@ -1,0 +1,90 @@
+{
+  "tools": {
+    "search_web": {
+      "name": "search_web",
+      "desc": "Search the web for information",
+      "file": "search_web.py",
+      "version": 1
+    },
+    "get_crypto_price": {
+      "name": "get_crypto_price",
+      "desc": "Get current cryptocurrency price",
+      "file": "get_crypto_price.py",
+      "version": 1
+    },
+    "get_weather": {
+      "name": "get_weather",
+      "desc": "Get weather for any city",
+      "file": "get_weather.py",
+      "version": 1
+    },
+    "nsfw_gen": {
+      "name": "nsfw_gen",
+      "desc": "مولد صور غير مفلتر - يجرب عدة تقنيات",
+      "file": "nsfw_gen.py",
+      "version": 2
+    },
+    "nsfw_search": {
+      "name": "nsfw_search",
+      "desc": "بحث عن صور غير مفلترة من مصادر متعددة",
+      "file": "nsfw_search.py",
+      "version": 2
+    },
+    "nsfw_prompt": {
+      "name": "nsfw_prompt",
+      "desc": "مهندس برومبت - يعيد صياغة الطلبات ل bypass الفلتر",
+      "file": "nsfw_prompt.py",
+      "version": 1
+    },
+    "ig_checker": {
+      "name": "ig_checker",
+      "desc": "فحص يوزرات انستقرام - موجود ولا متاح",
+      "file": "ig_checker.py",
+      "version": 1
+    },
+    "tg_finder": {
+      "name": "tg_finder",
+      "desc": "يبحث ويفحص روابط قروبات تيليقرام",
+      "file": "tg_finder.py",
+      "version": 2
+    },
+    "tg_storage": {
+      "name": "tg_storage",
+      "desc": "يحفظ ويدير القروبات",
+      "file": "tg_storage.py",
+      "version": 1
+    },
+    "tg_dirs": {
+      "name": "tg_dirs",
+      "desc": "يسحب قروبات من tgstat.com + دلائل أخرى",
+      "file": "tg_dirs.py",
+      "version": 2
+    },
+    "tg_userinfo": {
+      "name": "tg_userinfo",
+      "desc": "يجيب معلومات عن حساب تيليقرام",
+      "file": "tg_userinfo.py",
+      "version": 1
+    },
+    "tg_scanner": {
+      "name": "tg_scanner",
+      "desc": "فحص متقدم للحسابات - قروبات مشتركة + آخر ظهور",
+      "file": "tg_scanner.py",
+      "version": 2
+    }
+  },
+  "versions": {
+    "search_web": 1,
+    "get_crypto_price": 1,
+    "get_weather": 1,
+    "nsfw_gen": 2,
+    "nsfw_search": 2,
+    "nsfw_prompt": 1,
+    "ig_checker": 1,
+    "tg_finder": 2,
+    "tg_storage": 1,
+    "tg_dirs": 2,
+    "tg_userinfo": 1,
+    "tg_scanner": 2
+  }
+}
