@@ -18,3 +18,10 @@ gh_token.txt
 bot_output.log
 clean_secrets.py
 replace_tokens.py
+api_config.json
+scanner/account_data.json
+auto_evolve.sh
+start.sh
+evolution.log
+auto_evolve.log
+evolve.py
